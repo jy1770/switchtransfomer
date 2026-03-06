@@ -1,4 +1,4 @@
-# transfomer
+# switchtransfomer
 数据来源 : https://www.statmt.org/wmt14/translation-task.html  
 运行环境 : python3.10.1 , PyTorch: 2.9.1+cu128 , RTX 5090*8
 有一个需求 : cuda的序号必须从0开始并且连续。  
